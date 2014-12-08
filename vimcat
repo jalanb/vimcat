@@ -4,10 +4,7 @@
 #! Based on _v by Magnus Woldrich: https://github.com/trapd00r/utils/blob/master/_v
 
 : if 0
-  # Just pass through if not on a tty
-  if [ ! -t 1 ]; then
-    exec cat "${@}"
-  fi
+  # Do not pass through if not on a tty
 # try to find a better shell, especially on Solaris
 
   PATH=$PATH:/usr/local/bin:/opt/csw/bin:/opt/local/bin:/usr/dt/bin:/usr/xpg4/bin:/usr/bin:/bin
