@@ -4,7 +4,7 @@ This script will convert a file to a highlighted version using ANSI escape codes
 
 This script is part of the vimpager project, which itself is [available on vim.org](http://www.vim.org/scripts/script.php?script_id=1723), and [hosted on GitHub](https://github.com/rkitover/vimpager), where you can file issues and submit pull requests
 
-This project is eponymously hosted](https://github.com/jalanb/vimcat), so you can likewise.
+This project is [eponymously hosted](https://github.com/jalanb/vimcat), so you can likewise.
 
 ACKNOWLEDGEMENTS:
 
