@@ -2,13 +2,9 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=4325
 
 This script will convert a file to a highlighted version using ANSI escape codes and print it to your terminal, like cat only with colors.
 
-This script is part of the vimpager project, which itself is available on vim.org here:
+This script is part of the vimpager project, which itself is [available on vim.org](http://www.vim.org/scripts/script.php?script_id=1723), and [hosted on GitHub](https://github.com/rkitover/vimpager), where you can file issues and submit pull requests
 
-http://www.vim.org/scripts/script.php?script_id=1723
-
-The project is hosted on GitHub, where you can file issues and submit pull requests:
-
-https://github.com/rkitover/vimpager
+This project is eponymously hosted](https://github.com/jalanb/vimcat), so you can likewise.
 
 ACKNOWLEDGEMENTS:
 
